@@ -1,13 +1,15 @@
 # 開発を進める際の標準的なプロセスと使う技術についてのメモ / Notes on standard processes and techniques for use in developing
 
-
 ## タスク管理 / Task management
 
 Trelloを使う / Use Trello
+
 Trelloを使う上で下記のプラグインが必要だったり、合った方が良かったり / I need a plug-in, better be there
 
 (required) [Trello Card Numbers](https://chrome.google.com/webstore/detail/trello-card-numbers/kadpkdielickimifpinkknemjdipghaf)
+
 (optional) [Card Color Titles for Trello](https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim)
+
 (optional) [Card Colors for Trello](https://chrome.google.com/webstore/detail/card-colors-for-trello/nodlpencjjlohojddhflnahnfpfanbjm)
 
 ## リポジトリ管理 / Repository management
